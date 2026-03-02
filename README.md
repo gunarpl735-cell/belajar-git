@@ -1,2 +1,5 @@
-# belajar-git
-proyek belajar git
+# Proyek Belajar Git
+
+Nama: [guna]
+Kelas: [11rpl1]
+Alamat: [bandung]
